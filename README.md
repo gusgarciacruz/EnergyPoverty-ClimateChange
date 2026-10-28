@@ -9,4 +9,4 @@
 - [John García](https://sites.google.com/view/johnja/home) - Universidad EAFIT (Colombia)
 - Juan M. Aristizábal - Universidad de Manizales (Colombia)
 - [Gustavo A. García](https://gusgarciacruz.github.io/cv) - Universidad EAFIT (Colombia)
-- Gilberto Osorio-Gómez - Universidad EAFIT (Colombia)
+- [Gilberto Osorio-Gómez](https://www.eafit.edu.co/nuestros-profesores/gilberto-osorio-gomez) - Universidad EAFIT (Colombia)
